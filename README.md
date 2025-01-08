@@ -5,16 +5,9 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jderrickyoung/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jderrickyoung/osTicket-post-install-config.git)
-      <li>
-        <a href="#" style="color: gray; text-decoration: none; cursor: not-allowed;">
-          osTicket: Ticket Lifecycle Example
-        </a>
-        <span style="color: gray;">(inactive)</span>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <b>Microsoft Azure:</b>
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jderrickyoung/osTicket-ticket-lifetime-examples.git)
+
+-   <b>Microsoft Azure:</b>
     <ul>
       <li>
         <a href="#" style="color: gray; text-decoration: none; cursor: not-allowed;">
