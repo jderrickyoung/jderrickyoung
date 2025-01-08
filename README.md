@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jderrickyoung/osTicket-post-install-config.git)
       <li>
         <a href="#" style="color: gray; text-decoration: none; cursor: not-allowed;">
-          osTicket: Ticket Lifecycle Examples
+          osTicket: Ticket Lifecycle Example
         </a>
         <span style="color: gray;">(inactive)</span>
       </li>
