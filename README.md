@@ -14,16 +14,8 @@
           Configuring Active Directory within Azure VMs
         </a>
         <span style="color: gray;">(inactive)</span>
-      </li>
-      <li>
-        <a href="#" style="color: gray; text-decoration: none; cursor: not-allowed;">
-          Network Security Groups (NSGs) and Inspecting Network Protocols
-        </a>
-        <span style="color: gray;">(inactive)</span>
-      </li>
-    </ul>
-  </li>
-</ul>
+    
+   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jderrickyoung/Azure-NSGs-inspecting-network-protocol.git)
 
 <h2>Let's work together!</h2>
 
